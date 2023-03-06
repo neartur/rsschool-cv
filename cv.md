@@ -4,7 +4,7 @@
 
 ### Contacts
 
-- email: arturkapes@gmail.com
+- email: arturkudla15@gmail.com
 - mobile: +375293322228
 - skype: ArturKudla
 - GitHub: https://github.com/neartur
